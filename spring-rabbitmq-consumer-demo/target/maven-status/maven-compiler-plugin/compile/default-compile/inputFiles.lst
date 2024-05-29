@@ -1,0 +1,5 @@
+G:\IDEA\project\spring-rabbitmq-consumer-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\consumer\demo\repository\RideRequestRepository.java
+G:\IDEA\project\spring-rabbitmq-consumer-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\consumer\demo\SpringRabbitmqConsumerDemoApplication.java
+G:\IDEA\project\spring-rabbitmq-consumer-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\consumer\demo\model\RideRequest.java
+G:\IDEA\project\spring-rabbitmq-consumer-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\consumer\demo\Listener\TopicReceiver.java
+G:\IDEA\project\spring-rabbitmq-consumer-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\consumer\demo\Listener\DirectReceiver.java

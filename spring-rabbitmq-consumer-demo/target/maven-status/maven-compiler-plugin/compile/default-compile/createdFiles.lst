@@ -1,0 +1,4 @@
+cn\edu\bupt\spring\rabbitmq\consumer\demo\repository\RideRequestRepository.class
+cn\edu\bupt\spring\rabbitmq\consumer\demo\model\RideRequest.class
+cn\edu\bupt\spring\rabbitmq\consumer\demo\Listener\DirectReceiver.class
+cn\edu\bupt\spring\rabbitmq\consumer\demo\SpringRabbitmqConsumerDemoApplication.class
