@@ -1,0 +1,6 @@
+cn\edu\bupt\spring\rabbitmq\publisher\demo\model\RideRequest.class
+cn\edu\bupt\spring\rabbitmq\publisher\demo\config\TopicRabbitConfig.class
+cn\edu\bupt\spring\rabbitmq\publisher\demo\SpringRabbitmqPublisherDemoApplication.class
+cn\edu\bupt\spring\rabbitmq\publisher\demo\config\RabbitMQConfig.class
+cn\edu\bupt\spring\rabbitmq\publisher\demo\repository\RideRequestRepository.class
+cn\edu\bupt\spring\rabbitmq\publisher\demo\controller\SendMessageController.class

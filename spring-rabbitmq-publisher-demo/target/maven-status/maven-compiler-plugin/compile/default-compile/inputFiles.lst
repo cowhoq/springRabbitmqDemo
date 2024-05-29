@@ -1,0 +1,6 @@
+G:\IDEA\project\spring-rabbitmq-publisher-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\publisher\demo\repository\RideRequestRepository.java
+G:\IDEA\project\spring-rabbitmq-publisher-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\publisher\demo\config\TopicRabbitConfig.java
+G:\IDEA\project\spring-rabbitmq-publisher-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\publisher\demo\SpringRabbitmqPublisherDemoApplication.java
+G:\IDEA\project\spring-rabbitmq-publisher-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\publisher\demo\model\RideRequest.java
+G:\IDEA\project\spring-rabbitmq-publisher-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\publisher\demo\config\RabbitMQConfig.java
+G:\IDEA\project\spring-rabbitmq-publisher-demo\src\main\java\cn\edu\bupt\spring\rabbitmq\publisher\demo\controller\SendMessageController.java
